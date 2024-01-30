@@ -1,0 +1,50 @@
+.container h1 {
+  color: white;
+  text-shadow: 1px 1px 2px rgb(125, 125, 125);
+  font-family: 'Old Standard TT', serif;
+  font-size: 80px;
+  line-height: 86px;
+  margin-bottom: 0px;
+}
+
+.container h2 {
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 2px rgb(125, 125, 125);
+  font-family: 'Old Standard TT', serif;
+  font-size: 50px;
+  line-height: 86px;
+  margin-bottom: 0px;
+}
+
+.head-banner {
+  color: white;
+  text-shadow: 1px 1px 4px rgb(125, 125, 125);
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-container img {
+  width: 150px;
+}
+
+.card-container h3 {
+ color: rgb(80, 80, 80);
+ font-size: 16px;
+ margin: 0px;
+ margin-bottom: 3px;
+}
+
+.card-container p {
+  color: rgb(80, 80, 80);
+  font-family: 'Jost', sans-serif;
+  font-weight: bolder;
+  width: 80%;
+  margin: 0px;
+  margin-bottom: 3px;
+ }
